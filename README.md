@@ -1,16 +1,31 @@
-# globesisters_internship_project
+# GlobeSisters-Entry-Project-2.0
+[Version 2.0] This project is a couch surfing travel app for women. It is an entry project for the startup company at Berkeley SkyDeck called "Globe Sisters".
 
-A new Flutter project.
+## Note: Files are posted under "master" branch instead of "main"
 
-## Getting Started
+Overview of App:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Screen 1 (home_page.dart)**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A page with List View Builder and image assets that are scrollable.
+
+![Screen1](https://user-images.githubusercontent.com/76016696/193490722-1d1edd5b-b4c2-449f-b049-2f2d596d64d4.png)
+
+
+
+**Screen 2 (invite_fiends_page.dart)**:
+
+A page that entails the functionalities of TextFormField input and a button that adds the entered input to a dynamic list.
+
+![Screen2](https://user-images.githubusercontent.com/76016696/193490796-d07d9354-8983-490d-9162-0c06c0a45a90.png)
+
+
+
+**Screen 3 (profile_page.dart)**:
+
+A page that displays user's profile
+
+![Screen3](https://user-images.githubusercontent.com/76016696/193490809-0bbea1ea-f2e4-4cba-90d7-39d49b9741a4.png)
+
