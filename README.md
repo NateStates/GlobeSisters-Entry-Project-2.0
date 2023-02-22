@@ -1,4 +1,4 @@
-# GlobeSisters-Entry-Project-2.0
+# GlobeSisters-Independent-Project-2.0
 [Version 2.0] This is an independent project for the Berkeley SkyDeck startup called GlobeSisters, a women-only homestay community travel app. 
 
 ## Note: Files are posted under "master" branch instead of "main"
